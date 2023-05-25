@@ -1,0 +1,8 @@
+
+#pic{
+    background-image: url(todo-background.jpg);
+    background-size: 100% auto;
+    background-position: center;
+    background-repeat:no-repeat;
+    text-align: center;
+}
